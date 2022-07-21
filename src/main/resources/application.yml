@@ -1,0 +1,7 @@
+server:
+  port: 7000
+
+spring:
+  jackson:
+    default-property-inclusion: non_empty
+    date-format: yyyy-MM-dd HH:mm:ss
